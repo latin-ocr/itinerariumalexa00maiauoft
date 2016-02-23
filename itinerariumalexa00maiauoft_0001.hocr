@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./itinerariumalexa00maiauoft_0001.png"; bbox 0 0 1834 3142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 128 290 777">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 242 128 290 777">
+     <span class='ocr_line' id='line_1_1' title="bbox 242 128 290 777; baseline -324.5 0"><span class='ocrx_word' id='word_1_1' title='bbox 244 128 288 140; x_wconf 38' lang='grc' dir='ltr'><strong>ρ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 242 199 290 502; x_wconf 66' lang='lat' dir='ltr'>mmoeoeoeoeoo</span> <span class='ocrx_word' id='word_1_3' title='bbox 242 562 289 691; x_wconf 57' lang='grc' dir='ltr'>Ξῖ</span> <span class='ocrx_word' id='word_1_4' title='bbox 242 751 289 777; x_wconf 72' lang='lat' dir='ltr'><strong>m</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 117 625 234 748">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 117 625 234 748">
+     <span class='ocr_line' id='line_1_2' title="bbox 117 625 234 748"><span class='ocrx_word' id='word_1_5' title='bbox 117 625 234 748; x_wconf 59' lang='grc' dir='ltr'>ΞΞΖΞ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 90 241 112 642">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 90 241 112 642">
+     <span class='ocr_line' id='line_1_3' title="bbox 90 241 112 642; baseline -200.5 200.5"><span class='ocrx_word' id='word_1_6' title='bbox 92 241 112 382; x_wconf 43' lang='grc' dir='ltr'>ΕμΖΟΕΞμ</span> <span class='ocrx_word' id='word_1_7' title='bbox 92 410 109 444; x_wconf 49' lang='grc' dir='ltr'>μί</span> <span class='ocrx_word' id='word_1_8' title='bbox 92 467 109 478; x_wconf 80' lang='lat'>›</span> <span class='ocrx_word' id='word_1_9' title='bbox 91 488 108 494; x_wconf 44' lang='grc' dir='ltr'><strong>μ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 90 505 111 642; x_wconf 56' lang='grc' dir='ltr'>-Ψῖψ&gt;-Ζῖ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 2820 0 3094">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 2820 0 3094">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 2820 0 3094"><span class='ocrx_word' id='word_1_11' title='bbox 0 2820 0 3094; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
